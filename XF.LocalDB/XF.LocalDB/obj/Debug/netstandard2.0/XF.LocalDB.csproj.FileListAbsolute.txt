@@ -1,0 +1,15 @@
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.deps.json
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csprojAssemblyReference.cache
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfoInputs.cache
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfo.cs
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\ref\XF.LocalDB.dll
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\NovoAlunoView.xaml.g.cs
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\ref\XF.LocalDB.dll
+C:\Users\Philc\Desktop\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.pdb
